@@ -1,0 +1,88 @@
+{
+    "sidebar": [
+        {
+            "category": "Geschichte",
+            "color": "orange",
+            "documents": [
+                {
+                    "text": "1 Weltkrieg",
+                    "file": "/pdf/1weltkrieg.pdf"
+                }
+            ]
+        },
+        {
+            "category": "Physik",
+            "color": "teal",
+            "documents": [
+                {
+                    "text": "Magnetismus",
+                    "file": "/pdf/magnetismus.pdf"
+                }
+            ]
+        },
+        {
+            "category": "Biologie",
+            "color": "green",
+            "documents": [
+                {
+                    "text": "Pflanzen-Laubblätter",
+                    "file": "/pdf/pflanzen-laubblaetter.pdf"
+                },
+                {
+                    "text": "Dissimilation bei Pflanzen",
+                    "file": "/pdf/dissimilation-bei-pflanzen.pdf"
+                }
+            ]
+        },
+        {
+            "category": "GRW",
+            "color": "blue",
+            "documents": [
+                {
+                    "text": "Politik in Deutschland",
+                    "file": "/pdf/politik-in-deutschland.pdf"
+                }
+            ]
+        },
+        {
+            "category": "Geografie",
+            "color": "fuchsia",
+            "documents": [
+                {
+                    "text": "Amerika",
+                    "file": "/pdf/amerika.pdf"
+                }
+            ]
+        },
+        {
+            "category": "Chemie",
+            "color": "red",
+            "documents": [
+                {
+                    "text": "Säuren",
+                    "file": "/pdf/saeuren.pdf"
+                }
+            ]
+        },
+        {
+            "category": "Sport",
+            "color": "yellow",
+            "documents": [
+                {
+                    "text": "Basketball",
+                    "file": "/pdf/basketball.pdf"
+                }
+            ]
+        },
+        {
+            "category": "Informatik",
+            "color": "purple",
+            "documents": [
+                {
+                    "text": "Datenbanken",
+                    "file": "/pdf/datenbanken.pdf"
+                }
+            ]
+        }
+    ]
+}

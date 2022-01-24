@@ -1,0 +1,16 @@
+{
+    "setup":[
+        {
+            "typ":"Prozessor (CPU)",
+            "name":"Intel Core i9-10850K",
+            "bild":"cpu.png",
+            "link":"https://www.mindfactory.de/product_info.php/Intel-Core-i9-10850K-10x-3-60GHz-So-1200-WOF_1373697.html"
+        },
+        {
+            "typ":"Grafikkarte (GPU):",
+            "name":"GIGABYTE GeForce RTX 3060",
+            "bild":"gpu.png",
+            "link":"https://geizhals.de/gigabyte-geforce-rtx-3060-gaming-oc-12g-rev-2-0-gv-n3060gaming-oc-12gd-a2528462.html?hloc=de"
+        }
+    ]
+}
