@@ -2,4 +2,4 @@
   command = "npm run build"
   publish = "build"
 [functions]
-  node_bundler = "esbuild
+  node_bundler = "esbuild"
