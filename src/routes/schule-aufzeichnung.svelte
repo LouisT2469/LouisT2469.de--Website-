@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Home | louis T.</title>
+	<title>Schule | louis T.</title>
 </svelte:head>
 <Navbar />
 
