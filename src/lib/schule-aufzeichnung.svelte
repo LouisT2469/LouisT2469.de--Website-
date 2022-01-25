@@ -87,7 +87,7 @@
 			<div class="flex-1 col-span-4 w-full h-screen">
 				<div class="lg:p-8 flex  h-full">
 					<div
-						class="aspect-[3/4] lg:border-4 lg:border-dashed lg:rounded-xl lg:border-zinc-800 w-screen h-screen lg:w-auto lg:h-full {animation}"
+						class="aspect-[3/4] justify-center lg:border-4 lg:border-dashed lg:rounded-xl lg:border-zinc-800 w-screen h-screen lg:w-auto lg:h-full {animation}"
 					>
 						<iframe
 							src={currentFile}
