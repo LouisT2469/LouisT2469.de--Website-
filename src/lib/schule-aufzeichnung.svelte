@@ -19,7 +19,7 @@
 
 <svelte:head>
 	<meta name="color-scheme" content="dark light" />
-	<title>PDFViewer</title>
+	<title>Schule | Louis T.</title>
 </svelte:head>
 <section class="w-full min-h-screen">
 	<div class="grid place-items-center lg:hidden p-2">
@@ -86,8 +86,9 @@
 			</div>
 			<div class="flex-1 col-span-4 w-full h-screen">
 				<div class="lg:p-8 flex  h-full">
+					<div class="flex items-stretch">
 					<div
-						class="aspect-[3/4] justify-center lg:border-4 lg:border-dashed lg:rounded-xl lg:border-zinc-800 w-screen h-screen lg:w-auto lg:h-full {animation}"
+						class="aspect-[3/4] self-center lg:border-4 lg:border-dashed lg:rounded-xl lg:border-zinc-800 w-screen h-screen lg:w-auto lg:h-full {animation}"
 					>
 						<iframe
 							src={currentFile}
@@ -98,6 +99,7 @@
 							class="lg:rounded-xl"
 						/>
 					</div>
+				</div>
 				</div>
 			</div>
 		</div>
