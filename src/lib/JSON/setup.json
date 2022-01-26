@@ -11,6 +11,86 @@
             "name":"GIGABYTE GeForce RTX 3060",
             "bild":"gpu.png",
             "link":"https://geizhals.de/gigabyte-geforce-rtx-3060-gaming-oc-12g-rev-2-0-gv-n3060gaming-oc-12gd-a2528462.html?hloc=de"
+        },
+        {
+            "typ":"Arbeitsspeicher(RAM):",
+            "name":"Kingston FURY RGB DIMM Kit 16GB",
+            "bild":"arbeitsspeicher.png",
+            "link":"https://geizhals.de/kingston-hyperx-fury-rgb-dimm-kit-16gb-hx432c16fb3ak2-16-a2117272.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Mainboard:",
+            "name":"ASUS ROG Strix Z490-F Gaming",
+            "bild":"mainboard.png",
+            "link":"https://geizhals.de/asus-rog-strix-z490-f-gaming-90mb12q0-m0eay0-a2286429.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Wasserkühlung (CPU):",
+            "name":"Corsair iCUE H150i Elite Capellix",
+            "bild":"wasserkuelung.png",
+            "link":"https://geizhals.de/corsair-icue-h150i-elite-capellix-cw-9060048-ww-a2373510.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Gehäuse:",
+            "name":"Corsair 5000D",
+            "bild":"gehause.png",
+            "link":"https://geizhals.de/corsair-5000d-schwarz-cc-9011208-ww-a2444658.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Netzteil:",
+            "name":"be quiet! Straight Power 11 Platinum 850W",
+            "bild":"netzteil.png",
+            "link":"https://geizhals.de/be-quiet-straight-power-11-platinum-850w-atx-2-51-bn308-a2204648.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Festplatte (SSD):",
+            "name":"Seagate BarraCuda Compute 2TB",
+            "bild":"ssd.png",
+            "link":"https://geizhals.de/western-digital-wd-blue-3d-nand-sata-ssd-250gb-wds250g2b0b-a1661262.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Festplatte (HDD):",
+            "name":"Western Digital WD Blue 3D NAND SATA SSD 250GB",
+            "bild":"hdd.png",
+            "link":"https://geizhals.de/seagate-barracuda-compute-2tb-st2000dm008-a1700138.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Lüfter:",
+            "name":"be quiet! Pure Wings 2",
+            "bild":"luefter.png",
+            "link":"https://geizhals.de/be-quiet-pure-wings-2-bl039-a1345682.html?hloc=at&hloc=de"
+        },
+        {
+            "typ":"Maus:",
+            "name":"Roccat kain 120 aimo",
+            "bild":"maus.png",
+            "link":"https://de.roccat.com/products/kain-120-aimo"
+        },
+        {
+            "typ":"Tastatur:",
+            "name":"Razer BlackWidow V3",
+            "bild":"tastatur.png",
+            "link":"https://www.razer.com/de-de/gaming-keyboards/Razer-BlackWidow-V3/RZ03-03540400-R3G1"
+        },
+        {
+            "typ":"Bildschirm:",
+            "name":"AOC 22B2H",
+            "bild":"bildschirm.png",
+            "link":"https://www.amazon.de/AOC-22B2H-Monitor-Aufl%C3%B6sung-Reaktionszeit/dp/B08462YJYT"
+        },
+        {
+            "typ":"Headset:",
+            "name":"Lioncast LX55 Gaming Headset",
+            "bild":"headset.png",
+            "link":"https://www.amazon.de/Lioncast-Stereo-Sound-abnehmbares-geschlossene-Kopfh%C3%B6rer/dp/B078Y8VB5C/ref=sr_1_4?adgrpid=73861102234&dchild=1&hvadid=352554815716&hvdev=c&hvlocphy=9068345&hvnetw=g&hvqmt=e&hvrand=6687806583067997713&hvtargid=kwd-709591376837&hydadcr=27964_1737068&keywords=lioncast+lx55+gaming+headset&qid=1634222117&qsid=262-2306985-5273540&sr=8-4&sres=B07KKGKXNG%2CB07KKGT4YF%2CB00SAYCXWG%2CB078Y8VB5C%2CB07MTXLFXV%2CB07KKFPFG8%2CB01LRX2DSA%2CB07YT122DS%2CB08H4YMC22%2CB07GFRRQDJ%2CB07MTWHWZ1%2CB076GT6XJ9%2CB07VQ7NKS6%2CB07X71T4R6%2CB07HR4KVSN%2CB016HVE8L2&srpt=HEADPHONES"
+        },
+        {
+            "typ":"Kopfhörer:",
+            "name":"Kopfhörer:",
+            "bild":"kopfhoerer.png",
+            "link":"https://www.amazon.de/Soundcore-Ger%C3%A4uschisolierung-kristallklares-Akkulaufzeit-Wasserschutzklasse-Schwarz/dp/B07SJR6HL3?th=1"
         }
+
+
     ]
 }
