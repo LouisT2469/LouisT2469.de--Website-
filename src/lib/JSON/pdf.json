@@ -87,6 +87,16 @@
                     "file": "/pdf/datenbanken.pdf"
                 }
             ]
+        },
+        {
+            "category": "Ethik",
+            "color": "yellow",
+            "documents": [
+                {
+                    "text": "Das Phänomen Liebe",
+                    "file": "/pdf/phänomen-liebe.pdf"
+                }
+            ]
         }
     ]
 }
