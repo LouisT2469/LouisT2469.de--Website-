@@ -2,7 +2,7 @@
     "sidebar": [
         {
             "category": "Geschichte",
-            "color": "orange",
+            "color": "white",
             "documents": [
                 {
                     "text": "1 Weltkrieg",
@@ -22,7 +22,7 @@
         },
         {
             "category": "Physik",
-            "color": "teal",
+            "color": "blue",
             "documents": [
                 {
                     "text": "Magnetismus",
@@ -46,7 +46,7 @@
         },
         {
             "category": "GRW",
-            "color": "blue",
+            "color": "teal",
             "documents": [
                 {
                     "text": "Politik in Deutschland",
@@ -56,7 +56,7 @@
         },
         {
             "category": "Geografie",
-            "color": "fuchsia",
+            "color": "green",
             "documents": [
                 {
                     "text": "Amerika",
@@ -80,7 +80,7 @@
         },
         {
             "category": "Sport",
-            "color": "yellow",
+            "color": "black",
             "documents": [
                 {
                     "text": "Basketball",
@@ -90,7 +90,7 @@
         },
         {
             "category": "Informatik",
-            "color": "purple",
+            "color": "fuchsia",
             "documents": [
                 {
                     "text": "Datenbanken",
