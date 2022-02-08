@@ -11,6 +11,16 @@
             ]
         },
         {
+            "category": "Deutsch",
+            "color": "red",
+            "documents": [
+                {
+                    "text": "Wirkung von Sprache",
+                    "file": "/pdf/wirkung-von-sprache.pdf"
+                }
+            ]
+        },
+        {
             "category": "Physik",
             "color": "teal",
             "documents": [
