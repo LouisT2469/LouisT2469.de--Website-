@@ -1,0 +1,52 @@
+{
+    "Bilder":[
+        {
+            "source":"louisT.svg",
+            "alt":"Logo-louis T.",
+            "creator":"Louis T.",
+            "subtile":"LT-Logo"
+        },
+        {
+            "source":"bjj-cartoon-2.png",
+            "alt":"BJJ-Wallpaper",
+            "creator":"Louis T.",
+            "subtile":"BJJ-Wallpaper"
+        },
+        {
+            "source":"corona-3.svg",
+            "alt":"Corona-Image",
+            "creator":"Louis T.",
+            "subtile":"Corona-Icon"
+        },
+        {
+            "source":"franka_feuer.png",
+            "alt":"F-Feuer",
+            "creator":"Louis T.",
+            "subtile":"Feuer-F"
+        },
+        {
+            "source":"jule-punk2.png",
+            "alt":"Jule-Punk-Logo",
+            "creator":"Louis T.",
+            "subtile":"Jule-Punk"
+        },
+        {
+            "source":"planet-mars.png",
+            "alt":"Der Mars + Wüste",
+            "creator":"Louis T.",
+            "subtile":"Mars und Wüste"
+        },
+        {
+            "source":"mika5.png",
+            "alt":"Name Mika + Weltall",
+            "creator":"Louis T.",
+            "subtile":"Mika im All"
+        },
+        {
+            "source":"StarWars-Raumschiff.png",
+            "alt":"Raumschiff-Starwars",
+            "creator":"Louis T.",
+            "subtile":"Raumschiff-Starwars"
+        }
+    ]
+}
