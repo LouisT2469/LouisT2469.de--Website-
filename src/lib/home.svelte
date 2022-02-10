@@ -17,7 +17,7 @@
 				<img
 					class="object-cover object-center w-full h-48 mx-auto"
 					src="/galerie/{item.Bild}"
-					alt="lll"
+					alt="project"
 				/>
 
 				<div class="mt-2 border-gray-200 border rounded-lg">
