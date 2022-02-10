@@ -3,13 +3,13 @@
 </script>
 
 <section class="container p-6 mx-auto">
-	<h2 class="text-xl font-medium text-gray-800 capitalize dark:text-white md:text-2xl">
+	<h2 class="text-xl font-medium text-gray-800 capitalize dark:text-white md:text-2xl m-4">
 		My Designs:
 	</h2>
 	<div class="border-gray-200 border p-4 rounded-lg">
-		{#each data.Bilder as item}
-			<div class="flex items-center">
-				<div class="grid grid-cols-6 gap-4 mt-8">
+		<div class="m-8 content-start flex flex-wrap">
+			{#each data.Bilder as item}
+				<div class="flex items-center m-4">
 					<div
 						class="w-full max-w-xs text-center border-gray-200 border p-4 rounded-lg backdrop-blur-xl"
 					>
@@ -27,7 +27,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		{/each}
+			{/each}
+		</div>
 	</div>
 </section>
