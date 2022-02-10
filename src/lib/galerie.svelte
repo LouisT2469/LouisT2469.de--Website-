@@ -9,9 +9,9 @@
 	<div class="border-gray-200 border p-4 rounded-lg">
 		<div class="m-8 content-start flex flex-wrap">
 			{#each data.Bilder as item}
-				<div class="flex items-center m-4">
+				<div class="flex place-items-center m-4 self-center">
 					<div
-						class="w-full max-w-xs text-center border-gray-200 border p-4 rounded-lg backdrop-blur-xl"
+						class="w-full max-w-xs text-center border-gray-200 border p-4 rounded-lg backdrop-blur-xl grid place-items-center"
 					>
 						<img
 							class="object-cover object-center w-full h-48 mx-auto"
