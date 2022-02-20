@@ -16,7 +16,7 @@
 			>
 				<img
 					class="object-cover object-center w-full h-48 mx-auto"
-					src="/galerie/{item.Bild}"
+					src="/projekte/{item.Bild}"
 					alt="project"
 				/>
 
