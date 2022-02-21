@@ -3,7 +3,7 @@ import data from './JSON/projekte.json';
 </script>
 
 <section class="container p-6 mx-auto">
-    <h2 class="text-xl font-medium text-gray-800 capitalize dark:text-white md:text-2xl m-4">
+    <h2 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">
         My projects:
     </h2>
 
