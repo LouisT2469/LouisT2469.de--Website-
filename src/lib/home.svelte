@@ -12,7 +12,7 @@ import data from './JSON/projekte.json';
         {#each data.Projekte as item}
         <div class="flex place-items-center m-4 self-center">
             <div
-                class="w-full max-w-xs text-center border-gray-200 border p-2 rounded-lg backdrop-blur-xl grid place-items-center"
+                class="w-full max-w-xs text-center border-gray-200 border rounded-lg backdrop-blur-xl grid place-items-center"
                 >
                 <a href="{item.src}">
                     <img
