@@ -1,9 +1,8 @@
 {
     "Projekte":[
         {
-            "Bild":"galerie-vorrschau.svg",
-            "src":"/galerie",
-            "text":" Galerie mit meinen Bildern: "
+            "Bild":"galerie-vorschau-2.svg",
+            "src":"/galerie"
         }
     ]
 }
