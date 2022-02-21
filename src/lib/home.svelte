@@ -16,7 +16,7 @@ import data from './JSON/projekte.json';
                 >
                 <a href="{item.src}">
                     <img
-                        class="object-cover object-center w-full h-48 mx-auto m-2 hover:blur-sm"
+                        class="object-cover object-center w-full h-48 mx-auto m-2 hover:blur-sm cursor-pointer"
                         src="/projekte/{item.Bild}"
                         alt="project"
                         />
