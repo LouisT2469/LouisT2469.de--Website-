@@ -3,6 +3,10 @@
         {
             "Bild":"galerie-vorschau-2.svg",
             "src":"/galerie"
+        },
+        {
+            "Bild":"schulaufzeichnung-vorrschau.svg",
+            "src":"/schule-aufzeichnung"
         }
     ]
 }
