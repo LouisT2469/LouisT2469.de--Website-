@@ -6,7 +6,7 @@
 	<h2 class="text-xl font-medium text-gray-800 capitalize dark:text-white md:text-2xl m-4 ">
 		My designs:
 	</h2>
-	<div class="border-gray-200 border p-4 rounded-lg backdrop-blur-sm	">
+	<div class="border-gray-200 border p-4 rounded-lg backdrop-blur-sm">
 		<div class="m-8 content-start flex flex-wrap" >
 			{#each data.Bilder as item}
 				<div class="flex place-items-center m-4 self-center">
