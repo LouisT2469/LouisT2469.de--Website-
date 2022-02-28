@@ -2,6 +2,7 @@
 import Navbar from "$lib/navbar.svelte";
 import Footer from "$lib/footer.svelte";
 import Galerie from "$lib/galerie.svelte";
+
 </script>
 
 <svelte:head>
