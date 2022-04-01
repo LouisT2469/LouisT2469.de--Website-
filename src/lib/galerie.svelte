@@ -2,7 +2,7 @@
 	import data from './JSON/galerie.json';
 </script>
 
- <!-- component -->
+
 <section class="py-48 flex flex-col justify-center">
     <div class="grid grid-cols-2 gap-10 max-w-6xl mx-auto">
       <div class="-mt-20 flex justify-end">
