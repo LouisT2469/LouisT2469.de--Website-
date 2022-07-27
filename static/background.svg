@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1921 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="ArtBoard1" transform="matrix(1.01898,0,0,0.97177,217.332,-431.571)">
+        <rect x="-213.283" y="444.108" width="1884.7" height="1110.89" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="-213.283" y="444.108" width="1884.7" height="1110.89"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(0.981372,0,0,1.02905,-310.149,-79.6335)">
+                <g transform="matrix(1,0,0,1,98.9404,508.72)">
+                    <rect x="0" y="0" width="1920" height="1080" style="fill:rgb(115,142,173);"/>
+                </g>
+                <g transform="matrix(1,0,0,1.10494,98.9404,394.979)">
+                    <path d="M0,103L971.418,103C855.471,438.985 1165.52,747.82 971.418,1080L0,1080L0,103Z" style="fill:rgb(132,152,176);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

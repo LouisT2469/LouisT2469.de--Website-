@@ -1,8 +1,14 @@
-<nav class="w-full min-h-16 hover:bg-[#0d0016]">
-	<div class="text-white flex place-content-end gap-6 pt-4 pr-5 flex-wrap p-3">
-		<a href="/" class="px-4 py-1 hover:bg-[#868cb3]">Home</a>
-		<a href="/setup" class="px-4 py-1 hover:bg-[#868cb3]">Setup</a>
-		<a href="/sonderzeichen" class="px-4 py-1 hover:bg-[#868cb3]">Sonderzeichen</a>
-		<a href="/schule-aufzeichnung" class="px-4 py-1 hover:bg-[#868cb3]">Schulaufzeichnungen</a>
+<!--Navbar-->
+<nav class="w-full min h-18 bg-[#516781]">
+	<div class="text-white font-normal text-lg flex place-content-center gap-6 pt-4 pr-5 flex-wrap p-3">
+		<a href="/" class="px-4 py-1 hover:font-medium">Setup</a>
+		<a href="/" class="px-4 py-1 hover:font-medium">Galerie</a>
+        <a href="/" class="px-4 py-1 "><svg class="w-9 h-9 hover:scale-125 duration-200" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M48.9217 27.7447L28.6717 5.24475C27.819 4.29525 26.181 4.29525 25.3282 5.24475L5.07824 27.7447C4.78677 28.0678 4.59545 28.4687 4.52754 28.8985C4.45964 29.3283 4.51807 29.7685 4.69574 30.1657C5.05574 30.978 5.86124 31.5 6.74999 31.5H11.25V47.25C11.25 47.8467 11.487 48.419 11.909 48.841C12.331 49.2629 12.9033 49.5 13.5 49.5H20.25C20.8467 49.5 21.419 49.2629 21.841 48.841C22.2629 48.419 22.5 47.8467 22.5 47.25V38.25H31.5V47.25C31.5 47.8467 31.737 48.419 32.159 48.841C32.581 49.2629 33.1533 49.5 33.75 49.5H40.5C41.0967 49.5 41.669 49.2629 42.091 48.841C42.5129 48.419 42.75 47.8467 42.75 47.25V31.5H47.25C47.6857 31.5019 48.1126 31.3769 48.4786 31.1403C48.8445 30.9038 49.1337 30.5658 49.311 30.1678C49.4882 29.7697 49.5457 29.3286 49.4766 28.8984C49.4075 28.4681 49.2147 28.0673 48.9217 27.7447Z" fill="white"/>
+            </svg>
+            </a>       
+		<a href="/" class="px-4 py-1 hover:font-medium">Projekt</a>
+		<a href="/" class="px-4 py-1 hover:font-medium">Schule</a>
 	</div>
 </nav>
+<br>

@@ -1,21 +1,15 @@
 <script>
-import Navbar from '$lib/navbar.svelte';
-import Footer from '$lib/footer.svelte';
-import Home from '$lib/home.svelte';
+import Home from "$lib/home.svelte";
+import Navbar from "$lib/navbar.svelte";
+import Footer from "$lib/footer.svelte";
 </script>
 
 <svelte:head>
-    <title>Home | louis T.</title>
-    </svelte:head>
-    <Navbar />
-    <Home/>
+    <title>Home | Louis T.</title>
+</svelte:head>
 
-        <Footer/>
+<Navbar/>
+<Home/>
+<Footer/>
 
-<style>
-:global(body) {
-    background: url('/hintergrund.svg');
-    background-size: cover;
-    background-position: center;
-}
-</style>
+

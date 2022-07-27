@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1890 1890" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:bevel;stroke-miterlimit:1.5;">
+    <g id="rund" transform="matrix(-0.761905,9.33064e-17,-6.59742e-17,-0.538721,1889.76,1889.76)">
+        <rect x="0" y="0" width="2480.32" height="3507.87" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0" y="0" width="2480.32" height="3507.87"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(-1.58783,-2.75012e-16,1.82613e-16,-2.10891,2784.4,3736.75)">
+                <ellipse cx="972.546" cy="940.206" rx="781.039" ry="831.68" style="fill:none;"/>
+                <clipPath id="_clip2">
+                    <ellipse cx="972.546" cy="940.206" rx="781.039" ry="831.68"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g transform="matrix(-0.826599,5.89321e-17,-4.59027e-17,-0.798104,1684.97,1673.88)">
+                        <rect x="-288.011" y="-151.112" width="2299.76" height="2140.77"/>
+                    </g>
+                    <g transform="matrix(-0.433463,0.412295,-0.273771,-0.326361,1948.71,1002.95)">
+                        <g transform="matrix(-0.616279,0.979447,-0.692538,-0.871595,3564.82,2741.7)">
+                            <path d="M1415.68,2010.08L1415.54,1704.24L412.223,1704.24L412.223,2707.56L1415.54,2707.56L1414.98,2380.27" style="fill:none;stroke:white;stroke-width:257.25px;"/>
+                        </g>
+                        <g transform="matrix(0.616279,-0.979447,0.692538,0.871595,-1194.72,636.98)">
+                            <path d="M1415.67,2014.69L1415.54,1704.24L412.223,1704.24L412.223,2707.56L1415.54,2707.56L1414.99,2373.31" style="fill:none;stroke:white;stroke-width:257.25px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
